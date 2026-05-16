@@ -449,7 +449,8 @@
   "libraries": {
     "pinned_footprint_libs": [
       "yubuGadgetsFootpints",
-      "promicroReversiblePad"
+      "promicroReversiblePad",
+      "kbd"
     ],
     "pinned_symbol_libs": [
       "kbd"
