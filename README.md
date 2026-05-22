@@ -14,6 +14,6 @@ The case and layout design of Phalwol is licensed under CC BY-NC-SA 4.0 (Attribu
 
 If you wish to use this design for mass production or sale on a marketplace, please contact the authors.
 
-- me: [yuburoll@gmail.com]
+- me: yuburoll@gmail.com
 
-- Murasaki, the author of original layout Hatsukey70: [https://scrapbox.io/Hatsukey/%E4%BD%9C%E8%80%85%E9%80%A3%E7%B5%A1%E5%85%88]
+- Murasaki, the author of original layout Hatsukey70: https://scrapbox.io/Hatsukey/%E4%BD%9C%E8%80%85%E9%80%A3%E7%B5%A1%E5%85%88
