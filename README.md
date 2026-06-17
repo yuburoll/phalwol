@@ -1,7 +1,11 @@
-# phalwol
-row staggered 60% keyboard with reversible PCB, inspired from [Hatsukey70](https://scrapbox.io/Hatsukey/)
+![phalwol](images/phalwolPhotoProfile.jpg)
 
-this keyboard have hotswap-only PCB.
+# phalwol
+Row staggered 60% keyboard with reversible PCB, inspired from [Hatsukey70](https://scrapbox.io/Hatsukey/)
+
+Hatsuki means August in Japanese, and phalwol means August in Korean. this keyboard design are strongly hommaged Hatsukey70, so I want to pay respect the original design by name.
+
+This keyboard have hotswap-only PCB.
 
 ## Preparation
 
@@ -50,6 +54,10 @@ there's some notices before the build:
 - Assemble dev board with 2.5mm height pin headers on back side, assume that components side are faced up.
 
 - Jump every jumpers on front side.
+
+Also take a look at the sibiling, [ilwol](https://github.com/yuburoll/ilwol).
+
+![phalilwol](images/phalilwol1.jpg)
 
 # Licenses
 
