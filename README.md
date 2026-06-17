@@ -1,9 +1,9 @@
 ![phalwol](images/phalwolPhotoProfile.jpg)
 
 # phalwol
-Row staggered 60% keyboard with reversible PCB, inspired from [Hatsukey70](https://scrapbox.io/Hatsukey/)
+Row staggered 60% keyboard with reversible PCB, inspired by [Hatsukey70](https://scrapbox.io/Hatsukey/)
 
-Hatsuki means August in Japanese, and phalwol means August in Korean. this keyboard design are strongly hommaged Hatsukey70, so I want to pay respect the original design by name.
+Hatsuki means August in Japanese, and phalwol means August in Korean. This keyboard layout is an hommage to Hatsukey70, so I want to credit the original design by name.
 
 This keyboard have hotswap-only PCB.
 
