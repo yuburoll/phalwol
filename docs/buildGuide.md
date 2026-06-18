@@ -81,6 +81,10 @@ The finished PCBs look like following images.
 ![phalwolBuildAssembly1](../images/phalwolBuildAssembly1.jpg)
 ![phalwolBuildAssembly2](../images/phalwolBuildAssembly2.jpg)
 
+If you're a keyboard enthusiast, I'd recommend installing stabilizers at keycap positions 2u or larger, as shown in the following photo.
+
+![phalwolBuildStabilizer](../images/phalwolBuildStabilizer.jpg)
+
 # Assembly
 First, assemble plate and switches together with proper direction, and assemble PCB on it.
 
