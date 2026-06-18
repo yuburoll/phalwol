@@ -63,6 +63,8 @@ Also take a look at the sibiling, [ilwol](https://github.com/yuburoll/ilwol).
 
 All codes are in MIT License.
 
+Markdown documents and photos in docs/images folder are copyrighted, all rights reserved.
+
 The case and layout design of Phalwol is licensed under CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike) by default, with an additional limited permission for commercial use under the following conditions:
 
 - You are an individual, not acting on behalf of any company or organization.
