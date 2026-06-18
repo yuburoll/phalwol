@@ -27,7 +27,7 @@ phalwol can change layout to followings:
 
 - 2x pro micro form factor dev board
 
-- 2x ilwol PCB Boards, provided from the repo
+- 2x phalwol PCB Boards, provided from the repo
 
 - 1x printed case sets, 2 parts total, provided from the repo (for thicker case, use "buffed")
 
