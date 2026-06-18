@@ -5,7 +5,9 @@ Row staggered 60% keyboard with reversible PCB, inspired by [Hatsukey70](https:/
 
 Hatsuki means August in Japanese, and phalwol means August in Korean. This keyboard layout is an hommage to Hatsukey70, so I want to credit the original design by name.
 
-This keyboard have hotswap-only PCB.
+This keyboard has additional Y/H/B keys which positioned between keyboards, and auxilary row at left outside. you may put the keycaps from numpad.
+
+This keyboard has hotswap-only PCB.
 
 phalwol can change layout to followings:
 
