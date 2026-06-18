@@ -7,6 +7,18 @@ Hatsuki means August in Japanese, and phalwol means August in Korean. This keybo
 
 This keyboard have hotswap-only PCB.
 
+phalwol can change some layout to followings:
+
+- Split left shift, to ISO shaped one.(2.25u to 1.25u/1u)
+
+- Split right shift, to HHKB inspired shape.(2.75u to 1.75u/1u)
+
+- Split outside thumb keys(2u to 1u/1u)
+
+- Split backspace(2u to 1u/1u)
+
+- Can use stepped caps lock
+
 ![phalwolBuildAssembly1](images/phalwolBuildAssembly1.jpg)
 
 ## Preparation
