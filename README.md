@@ -7,6 +7,8 @@ Hatsuki means August in Japanese, and phalwol means August in Korean. This keybo
 
 This keyboard have hotswap-only PCB.
 
+![phalwolBuildAssembly1](images/phalwolBuildAssembly1.jpg)
+
 ## Preparation
 
 - 2x pro micro form factor dev board
