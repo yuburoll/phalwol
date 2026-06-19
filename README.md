@@ -53,6 +53,12 @@ phalwol can change layout to followings:
 
 - A set of Keycaps, Full-size layout, ANSI preferred.
 
+## Differences between case variations
+
+|Original|Buffed|
+|:---:|:---:|
+|![Base](images/caseBase.png)|![Buff](images/caseBuffed.png)|
+
 ## Build Guides and Miscellaneous
 
 [phalwol Build Guide](docs/buildGuide.md)
@@ -69,7 +75,7 @@ Also take a look at the sibling, [ilwol](https://github.com/yuburoll/ilwol).
 
 ![phalilwol](images/phalilwol1.jpg)
 
-# Licenses
+## Licenses
 
 All codes are in MIT License.
 
