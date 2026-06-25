@@ -71,6 +71,8 @@ there's some notices before the build:
 
 - Jump every jumpers on front side.
 
+[Additional Tenting Stand](https://github.com/yuburoll/yubuGadgets/tree/main/phalilwolTentingStand)
+
 Also take a look at the sibling, [ilwol](https://github.com/yuburoll/ilwol).
 
 ![phalilwol](images/phalilwol1.jpg)
