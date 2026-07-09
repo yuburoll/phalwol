@@ -55,9 +55,11 @@ phalwol can change layout to followings:
 
 ## Differences between case variations
 
-|Original|Buffed|
-|:---:|:---:|
-|![Base](images/caseBase.png)|![Buff](images/caseBuffed.png)|
+|Original|Buffed|Frame|
+|:---:|:---:|:---:|
+|![Base](images/caseBase.png)|![Buff](images/caseBuffed.png)|![Frame](images/caseFrame.png)|
+
+(Frame case are lightest option for 3d print, but it cannot use tenting stand)
 
 ## Build Guides and Miscellaneous
 
